@@ -1,0 +1,2011 @@
+{
+  "name": "늙크크 표현 후보 200개",
+  "schema_version": "1.0",
+  "created_at": "2026-10-16",
+  "language": "ko",
+  "description": "기존 관용구와 옛 유행어를 활용해 구성한 창작 시드 예문. 실제 사용 빈도나 늙크크 합의 여부를 검증한 수집 데이터가 아님.",
+  "intended_use": "사람의 검토를 거쳐 생성기 검색 참고 자료로 활용. 판독기 정답 라벨 및 독립 평가 데이터로 바로 사용하지 않음.",
+  "record_count": 200,
+  "expressions": [
+    {
+      "id": "old-keke-001",
+      "expression": "이거 정말 놀랄 노자네.",
+      "neutral_expression": "이거 정말 놀랍다.",
+      "situation": "예상 밖의 소식을 들었을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-002",
+      "expression": "네가 먼저 오다니, 해가 서쪽에서 뜨겠네.",
+      "neutral_expression": "네가 먼저 오다니 의외다.",
+      "situation": "평소와 다른 행동을 장난스럽게 짚을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-003",
+      "expression": "이런 일이 있다니, 오래 살고 볼 일이야.",
+      "neutral_expression": "이런 일도 생기는구나.",
+      "situation": "뜻밖의 광경을 보고 감탄할 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-004",
+      "expression": "세상에, 별일이 다 있네 그려.",
+      "neutral_expression": "정말 별일이 다 있네.",
+      "situation": "기묘한 사건을 전해 들었을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-005",
+      "expression": "이야, 이게 웬 떡이냐.",
+      "neutral_expression": "뜻밖에 좋은 일이 생겼네.",
+      "situation": "예상하지 못한 이득을 얻었을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-006",
+      "expression": "깜짝이야, 십 년 감수했네.",
+      "neutral_expression": "깜짝 놀랐어.",
+      "situation": "갑작스러운 소리나 움직임에 놀랐을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-007",
+      "expression": "아이고, 기절초풍할 노릇이네.",
+      "neutral_expression": "너무 놀라서 말이 안 나온다.",
+      "situation": "황당하거나 놀라운 상황을 과장할 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-008",
+      "expression": "거 참, 귀신이 곡할 노릇이네.",
+      "neutral_expression": "도무지 이해가 안 되네.",
+      "situation": "물건이 사라지는 등 설명하기 어려운 일이 생겼을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-009",
+      "expression": "어쩐지 일이 술술 풀린다 했어.",
+      "neutral_expression": "잘되다가 결국 문제가 생겼네.",
+      "situation": "순조롭던 일에 문제가 생겼을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-010",
+      "expression": "이게 꿈이야 생시야.",
+      "neutral_expression": "이 상황이 실감이 안 나.",
+      "situation": "믿기 어려울 만큼 좋은 일이 생겼을 때",
+      "category": "놀람·뜻밖의 상황",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-011",
+      "expression": "아주 난리 부르스를 추는구만.",
+      "neutral_expression": "아주 요란하네.",
+      "situation": "주변이 지나치게 소란스러울 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-012",
+      "expression": "웃기는 짬뽕이네, 정말.",
+      "neutral_expression": "정말 어이없네.",
+      "situation": "말도 안 되는 주장에 반응할 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-013",
+      "expression": "지나가던 개가 웃겠다.",
+      "neutral_expression": "누가 들어도 말이 안 되겠다.",
+      "situation": "황당한 변명을 과장해서 반박할 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-014",
+      "expression": "이게 무슨 자다가 봉창 두드리는 소리야.",
+      "neutral_expression": "갑자기 무슨 엉뚱한 소리야?",
+      "situation": "대화 흐름과 무관한 말을 들었을 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-015",
+      "expression": "말이야 방귀야.",
+      "neutral_expression": "그게 말이 된다고 생각해?",
+      "situation": "터무니없는 말을 강하게 핀잔줄 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-016",
+      "expression": "아주 가지가지 하는구나.",
+      "neutral_expression": "정말 여러 방식으로 문제를 일으키네.",
+      "situation": "어이없는 행동이 반복될 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-017",
+      "expression": "아이고, 내 팔자야.",
+      "neutral_expression": "왜 나한테 이런 일이 생기지?",
+      "situation": "자신의 처지를 과장해서 한탄할 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-018",
+      "expression": "내 속이 다 뒤집어진다.",
+      "neutral_expression": "보고 있으니 너무 답답하다.",
+      "situation": "답답한 상황을 지켜볼 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-019",
+      "expression": "내가 너 때문에 제명에 못 살겠다.",
+      "neutral_expression": "너 때문에 너무 마음을 졸였어.",
+      "situation": "가까운 사람에게 과장해서 투덜거릴 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-020",
+      "expression": "누굴 바보 핫바지로 아나.",
+      "neutral_expression": "나를 그렇게 만만하게 보나?",
+      "situation": "상대가 자신을 속이거나 무시한다고 느낄 때",
+      "category": "황당함·핀잔·투덜거림",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-021",
+      "expression": "뭘 먹어야 잘 먹었다고 소문이 날까.",
+      "neutral_expression": "오늘 뭐 먹을까?",
+      "situation": "메뉴를 고르며 능청스럽게 농담할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-022",
+      "expression": "둘이 먹다 하나 죽어도 모르겠네.",
+      "neutral_expression": "정말 맛있다.",
+      "situation": "음식 맛을 과장해서 칭찬할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-023",
+      "expression": "이 집 손맛이 보통이 아니네.",
+      "neutral_expression": "이 집 음식 정말 잘한다.",
+      "situation": "직접 만든 음식의 맛을 칭찬할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-024",
+      "expression": "밥도둑이 따로 없구만.",
+      "neutral_expression": "이 반찬이랑 먹으니 밥이 계속 들어간다.",
+      "situation": "반찬이 맛있어서 밥을 많이 먹게 될 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-025",
+      "expression": "시장이 반찬이라더니, 꿀맛이네.",
+      "neutral_expression": "배고플 때 먹으니 더 맛있네.",
+      "situation": "허기진 상태에서 식사할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-026",
+      "expression": "뜨끈한 국물이 아주 끝내주는구만.",
+      "neutral_expression": "따뜻한 국물이 정말 좋다.",
+      "situation": "따뜻한 국물 요리를 먹고 감탄할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-027",
+      "expression": "배 속에 거지가 들었나, 또 배고프네.",
+      "neutral_expression": "먹었는데도 또 배고프다.",
+      "situation": "자신의 왕성한 식욕을 농담할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-028",
+      "expression": "이러다 배 터지겠네, 배 터지겠어.",
+      "neutral_expression": "너무 많이 먹어서 배부르다.",
+      "situation": "과식한 뒤 포만감을 과장할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-029",
+      "expression": "먹고 죽은 귀신은 때깔도 좋다잖아.",
+      "neutral_expression": "일단 맛있게 먹자.",
+      "situation": "음식을 더 먹을 핑계를 장난스럽게 댈 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-030",
+      "expression": "금강산도 식후경이라는데, 밥부터 먹자고.",
+      "neutral_expression": "다른 일 하기 전에 밥부터 먹자.",
+      "situation": "구경이나 일을 하기 전에 식사를 제안할 때",
+      "category": "음식·식사",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-031",
+      "expression": "오늘 아주 멋쟁이 신사 나셨네.",
+      "neutral_expression": "오늘 멋있게 입었네.",
+      "situation": "차려입은 상대를 장난스럽게 칭찬할 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-032",
+      "expression": "인물이 훤칠하구만.",
+      "neutral_expression": "보기 좋고 멋지네.",
+      "situation": "상대의 외모나 인상을 칭찬할 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-033",
+      "expression": "아주 똑소리가 나는구나.",
+      "neutral_expression": "정말 야무지게 잘하네.",
+      "situation": "정확하고 빈틈없는 처리를 칭찬할 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-034",
+      "expression": "이거 솜씨가 예사롭지 않은데.",
+      "neutral_expression": "이거 정말 잘 만들었네.",
+      "situation": "직접 만든 결과물을 보고 감탄할 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-035",
+      "expression": "역시 구관이 명관이야.",
+      "neutral_expression": "역시 익숙한 게 좋네.",
+      "situation": "새것과 비교하다 기존 것의 장점을 느꼈을 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-036",
+      "expression": "자네, 큰일 낼 사람이구만.",
+      "neutral_expression": "앞으로 더 잘할 것 같아.",
+      "situation": "상대의 가능성을 능청스럽게 칭찬할 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-037",
+      "expression": "백 점 만점에 백이십 점이다.",
+      "neutral_expression": "기대 이상으로 잘했어.",
+      "situation": "성과를 과장해서 칭찬할 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-038",
+      "expression": "이야, 물건은 물건이네.",
+      "neutral_expression": "확실히 실력이 좋네.",
+      "situation": "뛰어난 실력이나 성능을 확인했을 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-039",
+      "expression": "기가 막히고 코가 막히는 솜씨네.",
+      "neutral_expression": "정말 대단한 솜씨네.",
+      "situation": "솜씨에 감탄하며 말장난할 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-040",
+      "expression": "엄지손가락이 절로 올라가는구만.",
+      "neutral_expression": "정말 잘했어.",
+      "situation": "만족스러운 결과에 칭찬을 보낼 때",
+      "category": "칭찬·감탄",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-041",
+      "expression": "그건 안 봐도 비디오지.",
+      "neutral_expression": "안 봐도 어떻게 됐을지 알겠어.",
+      "situation": "익숙한 패턴으로 결과를 예상할 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-042",
+      "expression": "내 그럴 줄 알았다.",
+      "neutral_expression": "역시 예상한 대로네.",
+      "situation": "예상했던 일이 실제로 일어났을 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-043",
+      "expression": "두말하면 잔소리지.",
+      "neutral_expression": "당연하지.",
+      "situation": "상대의 확인 질문에 자신 있게 답할 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-044",
+      "expression": "이 정도야 식은 죽 먹기지.",
+      "neutral_expression": "이 정도는 쉽게 할 수 있어.",
+      "situation": "쉬운 일이라고 자신할 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-045",
+      "expression": "눈 감고도 하겠네.",
+      "neutral_expression": "아주 익숙해서 쉽게 할 수 있겠어.",
+      "situation": "반복해서 해 본 일을 자신할 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-046",
+      "expression": "나만 믿고 따라오시게.",
+      "neutral_expression": "내가 안내할 테니 따라와.",
+      "situation": "상대를 이끌며 능청스럽게 자신감을 보일 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-047",
+      "expression": "왕년에 내가 좀 했지.",
+      "neutral_expression": "예전에 이걸 꽤 잘했어.",
+      "situation": "과거의 실력을 자랑할 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-048",
+      "expression": "아직 녹슬지 않았구만.",
+      "neutral_expression": "아직 실력이 괜찮네.",
+      "situation": "오랜만에 해도 잘되는 것을 확인했을 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-049",
+      "expression": "내 이름 석 자를 걸고 장담하지.",
+      "neutral_expression": "확실하다고 자신해.",
+      "situation": "자신의 말이 맞다고 과장해서 강조할 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-050",
+      "expression": "하늘이 두 쪽 나도 해낸다.",
+      "neutral_expression": "무슨 일이 있어도 해낼 거야.",
+      "situation": "강한 의지를 과장해서 표현할 때",
+      "category": "예측·자신감·큰소리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-051",
+      "expression": "눈코 뜰 새가 없구만.",
+      "neutral_expression": "너무 바쁘다.",
+      "situation": "처리할 일이 계속 몰릴 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-052",
+      "expression": "몸이 열 개라도 모자라겠어.",
+      "neutral_expression": "해야 할 일을 감당하기 어렵다.",
+      "situation": "동시에 맡은 일이 너무 많을 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-053",
+      "expression": "오늘 아주 진이 쏙 빠졌네.",
+      "neutral_expression": "오늘 정말 지쳤다.",
+      "situation": "많은 일을 마치고 피로를 느낄 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-054",
+      "expression": "삭신이 쑤시는구만.",
+      "neutral_expression": "온몸이 뻐근하다.",
+      "situation": "몸을 많이 쓴 뒤 통증을 느낄 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-055",
+      "expression": "아이고 허리야, 곡소리가 절로 나네.",
+      "neutral_expression": "허리가 아파서 힘들다.",
+      "situation": "오래 앉아 있거나 무거운 것을 든 뒤 투덜거릴 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-056",
+      "expression": "정신없이 뛰었더니 혼이 쏙 나갔네.",
+      "neutral_expression": "너무 바쁘게 움직여서 정신이 없다.",
+      "situation": "일을 몰아서 처리한 직후",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-057",
+      "expression": "먹고살기 참 팍팍하구만.",
+      "neutral_expression": "일해서 생활하기가 쉽지 않네.",
+      "situation": "일상의 고단함을 털어놓을 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-058",
+      "expression": "월급은 통장을 스쳐 갈 뿐이지.",
+      "neutral_expression": "월급이 들어와도 금방 다 나간다.",
+      "situation": "고정 지출이 많은 것을 농담할 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-059",
+      "expression": "오늘도 열심히 삽질했구만.",
+      "neutral_expression": "오늘도 헛수고를 많이 했네.",
+      "situation": "노력했지만 성과가 적은 하루를 돌아볼 때",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-060",
+      "expression": "이 일만 끝나면 두 다리 쭉 뻗고 자겠네.",
+      "neutral_expression": "이 일이 끝나면 마음 편히 잘 수 있겠다.",
+      "situation": "부담스러운 일을 마무리하기 직전",
+      "category": "바쁨·피곤함·일",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-061",
+      "expression": "어이쿠, 이게 얼마 만이야.",
+      "neutral_expression": "정말 오랜만이야.",
+      "situation": "오래 못 본 사람을 만났을 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-062",
+      "expression": "얼굴 한번 보기 힘들구만.",
+      "neutral_expression": "요즘 만나기 어렵네.",
+      "situation": "바쁜 지인에게 반가움 섞인 핀잔을 줄 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-063",
+      "expression": "별일 없이 잘 지내시는가.",
+      "neutral_expression": "별일 없이 잘 지내?",
+      "situation": "옛스러운 어미로 안부를 물을 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-064",
+      "expression": "자네 덕분에 한시름 놨네.",
+      "neutral_expression": "네 덕분에 걱정을 덜었어.",
+      "situation": "도움을 받아 안도하며 감사할 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-065",
+      "expression": "살다 보니 이런 날도 오는구나.",
+      "neutral_expression": "드디어 좋은 일이 생겼네.",
+      "situation": "오래 기다린 좋은 소식을 맞았을 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-066",
+      "expression": "좋은 날 한번 잡아야지.",
+      "neutral_expression": "조만간 만나자.",
+      "situation": "구체적인 날짜 없이 만남을 약속할 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-067",
+      "expression": "언제 밥 한번 먹세나.",
+      "neutral_expression": "나중에 같이 밥 먹자.",
+      "situation": "옛스러운 어미로 식사를 제안할 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-068",
+      "expression": "오늘도 무사히, 아자 아자!",
+      "neutral_expression": "오늘도 잘 보내자!",
+      "situation": "하루를 시작하며 기운을 북돋울 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-069",
+      "expression": "어깨 쫙 펴고 기운 내시게.",
+      "neutral_expression": "자신감 갖고 힘내.",
+      "situation": "기가 죽은 상대를 격려할 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-070",
+      "expression": "하는 일마다 만사형통하시길.",
+      "neutral_expression": "하는 일이 모두 잘되길 바라.",
+      "situation": "지인에게 덕담을 건넬 때",
+      "category": "인사·안부·독려",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-071",
+      "expression": "날이 아주 푹푹 찌는구만.",
+      "neutral_expression": "오늘 정말 덥다.",
+      "situation": "무더위에 지쳤을 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-072",
+      "expression": "더워서 아주 통닭이 되겠네.",
+      "neutral_expression": "너무 더워서 견디기 어렵다.",
+      "situation": "더위를 익는 모습에 빗대어 과장할 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-073",
+      "expression": "이불 밖은 위험하다니까.",
+      "neutral_expression": "오늘은 집에서 쉬고 싶다.",
+      "situation": "추운 날 외출이 내키지 않을 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-074",
+      "expression": "바람이 아주 살을 에는구만.",
+      "neutral_expression": "바람이 정말 차갑다.",
+      "situation": "매서운 찬바람을 맞았을 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-075",
+      "expression": "비가 아주 억수로 쏟아지네.",
+      "neutral_expression": "비가 정말 많이 온다.",
+      "situation": "강한 비를 바라볼 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-076",
+      "expression": "하늘에 구멍이라도 났나.",
+      "neutral_expression": "비가 끝없이 쏟아지네.",
+      "situation": "폭우가 계속되는 것을 과장할 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-077",
+      "expression": "날씨 한번 기가 막히게 좋구만.",
+      "neutral_expression": "오늘 날씨 정말 좋다.",
+      "situation": "맑고 쾌적한 날씨에 감탄할 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-078",
+      "expression": "이런 날은 콧바람 좀 쐬어야지.",
+      "neutral_expression": "이런 날은 밖에 나가 기분 전환하자.",
+      "situation": "날씨가 좋아 외출을 제안할 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-079",
+      "expression": "봄바람이 살랑살랑, 마음도 싱숭생숭하네.",
+      "neutral_expression": "봄이 되니 괜히 마음이 들뜬다.",
+      "situation": "봄날의 기분을 운율 있게 표현할 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-080",
+      "expression": "세월 참 빠르다, 벌써 찬바람이 부네.",
+      "neutral_expression": "어느새 날씨가 추워졌네.",
+      "situation": "계절이 바뀐 것을 실감할 때",
+      "category": "날씨·계절·외출",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-081",
+      "expression": "돈이 아주 날개를 달았구만.",
+      "neutral_expression": "돈이 너무 빨리 나간다.",
+      "situation": "지출이 빠르게 늘어날 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-082",
+      "expression": "내 지갑에 찬바람 분다.",
+      "neutral_expression": "요즘 쓸 돈이 별로 없다.",
+      "situation": "돈이 부족한 상황을 농담할 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-083",
+      "expression": "땅 파 봐라, 돈이 나오나.",
+      "neutral_expression": "돈을 그렇게 쉽게 쓸 수는 없어.",
+      "situation": "낭비를 핀잔줄 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-084",
+      "expression": "이 가격이면 거저나 다름없지.",
+      "neutral_expression": "이 정도면 정말 싸다.",
+      "situation": "가격 대비 만족도가 높을 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-085",
+      "expression": "싼 게 비지떡이라더니.",
+      "neutral_expression": "싸게 샀더니 품질이 아쉽네.",
+      "situation": "저렴한 물건의 품질에 실망했을 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-086",
+      "expression": "이거 완전 배보다 배꼽이 크네.",
+      "neutral_expression": "추가 비용이 원래 비용보다 더 크다.",
+      "situation": "배송비나 수리비가 과하게 들 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-087",
+      "expression": "그림의 떡이 따로 없구만.",
+      "neutral_expression": "갖고 싶지만 가질 수가 없네.",
+      "situation": "마음에 드는 물건을 살 수 없을 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-088",
+      "expression": "눈 딱 감고 하나 장만했지.",
+      "neutral_expression": "고민하다가 큰맘 먹고 샀어.",
+      "situation": "망설이던 물건을 구매했을 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-089",
+      "expression": "없는 것 빼고 다 있구만.",
+      "neutral_expression": "물건 종류가 정말 많다.",
+      "situation": "매장이나 준비물의 다양함을 농담으로 표현할 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-090",
+      "expression": "이거 하나면 아주 만사 오케이지.",
+      "neutral_expression": "이것 하나로 다 해결돼.",
+      "situation": "여러 용도로 쓸 수 있는 물건을 소개할 때",
+      "category": "돈·물건·선택",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-091",
+      "expression": "방가방가~ 다들 잘 지냈쥐?",
+      "neutral_expression": "반가워, 다들 잘 지냈어?",
+      "situation": "옛 채팅 말투로 모임에 인사할 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-092",
+      "expression": "하이루~ 나 왔당.",
+      "neutral_expression": "안녕, 나 왔어.",
+      "situation": "옛 채팅방 입장 인사를 흉내 낼 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-093",
+      "expression": "오늘 정모 오는 사람 손!",
+      "neutral_expression": "오늘 모임 오는 사람 있어?",
+      "situation": "온라인 모임의 참석자를 확인할 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-094",
+      "expression": "즐팅하시고 저는 이만 총총.",
+      "neutral_expression": "즐겁게 대화해, 나는 먼저 갈게.",
+      "situation": "옛 채팅 말투로 대화를 마칠 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-095",
+      "expression": "좋은 정보 감사염~ 담아갑니다.",
+      "neutral_expression": "좋은 정보 고마워, 저장할게.",
+      "situation": "게시글에 옛 댓글 말투로 감사를 남길 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-096",
+      "expression": "이건 대략 난감인데;;",
+      "neutral_expression": "이건 좀 곤란한데.",
+      "situation": "곤란한 상황에 옛 인터넷 표현으로 반응할 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-097",
+      "expression": "또 실패라니, 안습이다 안습.",
+      "neutral_expression": "또 실패하다니 안타깝다.",
+      "situation": "실패한 상황에 자조적으로 반응할 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-098",
+      "expression": "저장 안 하고 껐다… OTL",
+      "neutral_expression": "저장하지 않고 꺼서 너무 좌절스럽다.",
+      "situation": "실수한 뒤 좌절하는 모습을 문자로 표현할 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-099",
+      "expression": "이 아이템 완전소중, 완소템 인정!",
+      "neutral_expression": "이 물건 정말 마음에 들어.",
+      "situation": "마음에 드는 물건을 옛 줄임말로 칭찬할 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-100",
+      "expression": "오늘 사진 잘 나왔다, 얼짱 각도 살아 있네.",
+      "neutral_expression": "오늘 사진 각도가 좋아서 잘 나왔네.",
+      "situation": "옛 인터넷 유행어로 사진을 칭찬할 때",
+      "category": "예전 인터넷·문자 말투",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-101",
+      "expression": "천만의 말씀, 만만의 콩떡이지.",
+      "neutral_expression": "전혀 그렇지 않아.",
+      "situation": "상대의 말을 장난스럽게 부정할 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-102",
+      "expression": "그럼 그럼, 당근이지.",
+      "neutral_expression": "당연하지.",
+      "situation": "동의하는 답변에 옛 말장난을 붙일 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-103",
+      "expression": "오케이 목장, 그렇게 합시다.",
+      "neutral_expression": "좋아, 그렇게 하자.",
+      "situation": "제안에 가볍고 장난스럽게 동의할 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-104",
+      "expression": "말 안 해도 척이면 척이지.",
+      "neutral_expression": "설명하지 않아도 무슨 뜻인지 알아.",
+      "situation": "서로 뜻이 잘 통하는 것을 표현할 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-105",
+      "expression": "에구머니나, 이게 누구야.",
+      "neutral_expression": "깜짝이야, 네가 여기 웬일이야?",
+      "situation": "아는 사람을 뜻밖의 장소에서 만났을 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-106",
+      "expression": "얼씨구, 잘한다 잘해.",
+      "neutral_expression": "참 대단한 일을 했네.",
+      "situation": "상대의 황당한 행동을 반어적으로 핀잔줄 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-107",
+      "expression": "아이고 배야, 웃다가 사람 잡겠네.",
+      "neutral_expression": "너무 웃겨서 배가 아프다.",
+      "situation": "크게 웃은 뒤 과장해서 반응할 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-108",
+      "expression": "거 참, 입이 귀에 걸렸구만.",
+      "neutral_expression": "정말 기분 좋아 보이네.",
+      "situation": "활짝 웃는 상대를 보고 장난칠 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-109",
+      "expression": "이거야 원, 당최 알 수가 있어야지.",
+      "neutral_expression": "도무지 이해할 수가 없네.",
+      "situation": "복잡한 설명이나 상황에 난감해할 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-110",
+      "expression": "허허, 고것 참 맹랑하네.",
+      "neutral_expression": "꽤 당돌하고 재치 있네.",
+      "situation": "예상치 못한 재치 있는 말이나 행동에 반응할 때",
+      "category": "능청스러운 반응·말장난",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-111",
+      "expression": "내가 무슨 부귀영화를 누리겠다고 이러고 있나.",
+      "neutral_expression": "이걸 하느라 왜 이렇게 고생하고 있지?",
+      "situation": "보람에 비해 고생이 크다고 느낄 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-112",
+      "expression": "이게 다 뭔 소용이람.",
+      "neutral_expression": "이제는 다 의미 없게 느껴진다.",
+      "situation": "노력한 일이 허무하게 끝났을 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-113",
+      "expression": "좋다 말았네, 좋다 말았어.",
+      "neutral_expression": "잠깐 기대했는데 실망했네.",
+      "situation": "좋은 줄 알았던 소식에 조건이 붙었을 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-114",
+      "expression": "이 나이에 공부 복이 터졌구만.",
+      "neutral_expression": "또 공부해야 할 게 생겼네.",
+      "situation": "배울 것이 계속 늘어나는 상황을 자조할 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-115",
+      "expression": "남 좋은 일만 실컷 했네.",
+      "neutral_expression": "노력은 내가 했는데 이득은 다른 사람이 봤네.",
+      "situation": "자신에게 돌아온 보상이 없다고 느낄 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-116",
+      "expression": "에라 모르겠다, 될 대로 되라지.",
+      "neutral_expression": "이제 걱정 그만하고 일단 해보자.",
+      "situation": "고민을 멈추고 일을 진행하기로 할 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-117",
+      "expression": "이왕 버린 몸, 끝까지 해보자고.",
+      "neutral_expression": "이미 시작했으니 끝까지 해보자.",
+      "situation": "수고를 많이 들인 일을 계속할 핑계를 댈 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-118",
+      "expression": "팔자에도 없는 호강을 다 해보네.",
+      "neutral_expression": "예상하지 못하게 좋은 대접을 받네.",
+      "situation": "평소보다 좋은 서비스나 대접을 받았을 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-119",
+      "expression": "사서 고생을 했구만, 사서 고생을.",
+      "neutral_expression": "괜히 어려운 일을 선택했네.",
+      "situation": "직접 선택한 일이 힘들어 후회할 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-120",
+      "expression": "호랑이 없는 굴에 여우가 왕이라더니.",
+      "neutral_expression": "잘하는 사람이 없으니 내가 대표가 됐네.",
+      "situation": "주변에 적임자가 없어 자신이 나서게 된 것을 농담할 때",
+      "category": "체념·푸념·자기 합리화",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-121",
+      "expression": "오늘 제대로 회포 한번 풀어보세.",
+      "neutral_expression": "오늘 오랜만에 실컷 이야기하자.",
+      "situation": "오래 못 본 사람들과 모였을 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-122",
+      "expression": "인생 뭐 있나, 즐겁게 살자고.",
+      "neutral_expression": "너무 걱정하지 말고 즐기자.",
+      "situation": "모임에서 분위기를 편하게 만들 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-123",
+      "expression": "오늘은 내가 한턱 쏜다.",
+      "neutral_expression": "오늘은 내가 계산할게.",
+      "situation": "모임 비용을 자신이 내겠다고 할 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-124",
+      "expression": "분위기 좋고, 기분 좋고!",
+      "neutral_expression": "지금 분위기 정말 좋다.",
+      "situation": "들뜬 모임 분위기에 장단을 맞출 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-125",
+      "expression": "어깨춤이 절로 나는구만.",
+      "neutral_expression": "신나서 몸이 저절로 움직인다.",
+      "situation": "흥겨운 음악이나 좋은 소식에 반응할 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-126",
+      "expression": "에헤라디야, 오늘은 신바람 나는 날이구나.",
+      "neutral_expression": "오늘 정말 신난다.",
+      "situation": "기쁜 날의 흥을 과장해서 표현할 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-127",
+      "expression": "노세 노세, 젊어서 노세.",
+      "neutral_expression": "시간 있을 때 즐기자.",
+      "situation": "놀러 가거나 쉬자는 제안에 장단을 맞출 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-128",
+      "expression": "자, 박수 한번 주고 갑시다.",
+      "neutral_expression": "다 같이 박수 쳐주자.",
+      "situation": "진행자처럼 누군가를 치켜세울 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-129",
+      "expression": "아쉽지만 오늘은 여기서 파합시다.",
+      "neutral_expression": "아쉽지만 오늘 모임은 여기까지 하자.",
+      "situation": "모임을 끝내자고 제안할 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-130",
+      "expression": "가는 길 살펴 가시고, 다음에 또 봅시다.",
+      "neutral_expression": "조심히 가고 다음에 또 만나.",
+      "situation": "모임이 끝난 뒤 참석자에게 인사할 때",
+      "category": "모임·흥·마무리",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-131",
+      "expression": "다 피가 되고 살이 되는 이야기라네.",
+      "neutral_expression": "나중에 도움이 될 이야기야.",
+      "situation": "자신의 조언이 유익하다고 강조할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-132",
+      "expression": "돌다리도 두들겨 보고 건너랬어.",
+      "neutral_expression": "확실해 보여도 다시 확인하자.",
+      "situation": "실행하기 전에 점검을 권할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-133",
+      "expression": "급할수록 돌아가야 하는 법이지.",
+      "neutral_expression": "급해도 차근차근 하자.",
+      "situation": "서두르는 상대에게 신중함을 권할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-134",
+      "expression": "첫술에 배부를 수 있나.",
+      "neutral_expression": "처음부터 다 잘할 수는 없어.",
+      "situation": "처음 시도한 일에 실망한 상대를 다독일 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-135",
+      "expression": "구슬이 서 말이라도 꿰어야 보배지.",
+      "neutral_expression": "좋은 재료가 있어도 활용해야 가치가 있어.",
+      "situation": "아이디어나 자료를 실제 결과물로 만들라고 권할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-136",
+      "expression": "한 우물만 파야 하는 법이야.",
+      "neutral_expression": "하나에 집중해서 꾸준히 해보자.",
+      "situation": "여러 일을 동시에 벌인 상대에게 집중을 권할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-137",
+      "expression": "자고로 사람은 밥심으로 사는 거야.",
+      "neutral_expression": "잘 먹어야 힘을 낼 수 있어.",
+      "situation": "식사를 거르지 말라고 권할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-138",
+      "expression": "이러다 사돈이 남 말 하겠네.",
+      "neutral_expression": "나도 같은 문제를 갖고 있네.",
+      "situation": "남을 지적하다 자신의 비슷한 행동을 깨달았을 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-139",
+      "expression": "사람 팔자 시간문제라더니, 앞일은 모르는 거야.",
+      "neutral_expression": "상황은 언제든 바뀔 수 있어.",
+      "situation": "뜻밖에 처지가 바뀐 일을 이야기할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-140",
+      "expression": "세상만사 새옹지마라, 너무 낙심 말게.",
+      "neutral_expression": "지금 안 좋은 일이 나중에는 도움이 될 수도 있어.",
+      "situation": "실패한 상대에게 옛스러운 말투로 위로할 때",
+      "category": "조언·참견·옛스러운 비유",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-141",
+      "expression": "아햏햏, 이 상황을 어찌해야 하오.",
+      "neutral_expression": "이 상황이 황당해서 어떻게 해야 할지 모르겠어.",
+      "situation": "옛 게시판 말투로 황당함을 표현할 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-142",
+      "expression": "이 결과는 정말 뷁이다.",
+      "neutral_expression": "이 결과는 정말 마음에 안 든다.",
+      "situation": "옛 인터넷 감탄사로 불만을 표현할 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-143",
+      "expression": "오늘 사진 오나전 잘 나왔삼.",
+      "neutral_expression": "오늘 사진 정말 잘 나왔어.",
+      "situation": "옛 오타 유행어와 어미로 사진을 칭찬할 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-144",
+      "expression": "질문 하나만 받아주삼, 굽신굽신.",
+      "neutral_expression": "질문 하나만 받아줄래? 부탁해.",
+      "situation": "옛 게시판 말투로 도움을 요청할 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-145",
+      "expression": "이거 만든 분 능력자시네, 인정하빈다.",
+      "neutral_expression": "이거 만든 사람 정말 실력 좋네.",
+      "situation": "옛 인터넷 말투로 제작자를 칭찬할 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-146",
+      "expression": "좋은 글 보고 갑니다, 일촌 맺어요~",
+      "neutral_expression": "글 잘 읽었어요, 서로 연결해요.",
+      "situation": "옛 미니홈피 방문 인사를 흉내 낼 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-147",
+      "expression": "도토리 좀 생겨서 배경음악 질렀다.",
+      "neutral_expression": "포인트가 생겨서 프로필 배경음악을 샀어.",
+      "situation": "옛 미니홈피의 가상 재화와 꾸미기 문화를 이야기할 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-148",
+      "expression": "제목이 곧 내용입니다, 냉무.",
+      "neutral_expression": "제목에 적힌 내용이 전부야.",
+      "situation": "본문이 없는 옛 게시판 글 형식을 흉내 낼 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-149",
+      "expression": "이 글은 성지가 됩니다, 성지순례 왔습니다.",
+      "neutral_expression": "이 글의 예측이 맞아서 다시 찾아왔어.",
+      "situation": "과거의 예측이 맞은 게시글에 댓글을 남길 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-150",
+      "expression": "추천 한 방 날리고 갑니다, 즐감했어요.",
+      "neutral_expression": "잘 봤어요, 추천하고 갈게요.",
+      "situation": "옛 게시판 말투로 콘텐츠에 호응할 때",
+      "category": "예전 게시판·메신저 표현",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-151",
+      "expression": "이거 누구 코에 붙이려고.",
+      "neutral_expression": "이 양으로는 너무 부족하겠는데.",
+      "situation": "여러 명이 먹기에는 음식이 적을 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-152",
+      "expression": "방금 먹은 건 간에 기별도 안 갔다.",
+      "neutral_expression": "조금 먹었더니 아직 배고프다.",
+      "situation": "간식이나 적은 양의 음식을 먹은 뒤",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-153",
+      "expression": "다 먹고살자고 하는 짓인데, 밥은 먹고 하자.",
+      "neutral_expression": "일단 밥부터 먹고 일하자.",
+      "situation": "바빠서 끼니를 거르려 할 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-154",
+      "expression": "밥 배 따로 있고 디저트 배 따로 있지.",
+      "neutral_expression": "배불러도 디저트는 먹을 수 있어.",
+      "situation": "식사 후 디저트를 먹을 이유를 댈 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-155",
+      "expression": "먹을 때는 개도 안 건드린다는데.",
+      "neutral_expression": "밥 먹는 동안은 좀 편하게 두자.",
+      "situation": "식사 중에 계속 말을 걸거나 일을 시킬 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-156",
+      "expression": "이게 아주 입에서 살살 녹네.",
+      "neutral_expression": "정말 부드럽고 맛있다.",
+      "situation": "부드러운 음식의 식감을 칭찬할 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-157",
+      "expression": "이건 없어서 못 먹지.",
+      "neutral_expression": "있으면 얼마든지 잘 먹어.",
+      "situation": "특정 음식을 먹을 수 있는지 질문받았을 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-158",
+      "expression": "여기 인심 한번 후하네.",
+      "neutral_expression": "여기는 양을 넉넉하게 주네.",
+      "situation": "음식이나 덤을 많이 받았을 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-159",
+      "expression": "먹는 데 돈 아끼는 거 아니다.",
+      "neutral_expression": "먹고 싶은 건 사 먹자.",
+      "situation": "음식 가격 때문에 망설이는 상대를 설득할 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-160",
+      "expression": "입이 짧아서 문제라니까, 입이 짧아서.",
+      "neutral_expression": "많이 못 먹고 음식을 가려서 걱정이야.",
+      "situation": "적게 먹거나 음식을 가리는 모습을 두고 말할 때",
+      "category": "생활형 — 음식 앞에서 나오는 말",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-161",
+      "expression": "입만 살아가지고, 아주.",
+      "neutral_expression": "말만 하고 행동은 안 하네.",
+      "situation": "큰소리만 치고 실행하지 않는 상대를 놀릴 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-162",
+      "expression": "말은 아주 청산유수네.",
+      "neutral_expression": "설명이나 변명은 정말 잘하네.",
+      "situation": "말을 유창하게 늘어놓는 상대를 핀잔줄 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-163",
+      "expression": "누가 보면 혼자 다 한 줄 알겠다.",
+      "neutral_expression": "다른 사람도 도왔는데 너무 생색내네.",
+      "situation": "자신의 공만 강조하는 상대를 놀릴 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-164",
+      "expression": "또 시작이다, 또 시작이야.",
+      "neutral_expression": "익숙한 이야기를 또 꺼내네.",
+      "situation": "반복되는 자랑이나 말버릇이 시작될 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-165",
+      "expression": "귀에 딱지가 앉도록 들었다.",
+      "neutral_expression": "그 이야기는 이미 정말 많이 들었어.",
+      "situation": "같은 이야기를 여러 번 들었을 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-166",
+      "expression": "입에 침이나 바르고 거짓말해라.",
+      "neutral_expression": "너무 뻔한 거짓말이야.",
+      "situation": "친한 상대의 티 나는 거짓말을 지적할 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-167",
+      "expression": "아주 혼자 북 치고 장구 치고 다 하네.",
+      "neutral_expression": "혼자 상황을 만들고 결론까지 내리네.",
+      "situation": "상대가 혼자 추측하고 반응하는 모습을 볼 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-168",
+      "expression": "사람을 들었다 놨다 하네.",
+      "neutral_expression": "기대하게 했다가 실망하게 하네.",
+      "situation": "상대의 말에 감정이 오르내릴 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-169",
+      "expression": "어련히 알아서 하시겠어.",
+      "neutral_expression": "잘 알아서 하겠지.",
+      "situation": "자신만만한 상대에게 장난스럽게 한발 물러설 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-170",
+      "expression": "이러다 아주 날 새겠네.",
+      "neutral_expression": "이 속도면 끝나기까지 오래 걸리겠다.",
+      "situation": "결정을 못 하거나 준비가 늦어질 때",
+      "category": "생활형 — 친한 사이의 핀잔",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-171",
+      "expression": "나 참, 어이가 없어서 웃음만 나온다.",
+      "neutral_expression": "너무 황당하다.",
+      "situation": "말도 안 되는 상황에 헛웃음이 날 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-172",
+      "expression": "이쯤 되면 막 가자는 거지.",
+      "neutral_expression": "이제는 너무 심하게 하는 것 같은데.",
+      "situation": "장난이나 무리한 요구가 선을 넘을 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-173",
+      "expression": "별꼴을 다 보겠네.",
+      "neutral_expression": "정말 황당한 모습을 보네.",
+      "situation": "어이없는 행동을 목격했을 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-174",
+      "expression": "오늘 아주 쇼를 하는구나.",
+      "neutral_expression": "오늘 유난히 과장해서 행동하네.",
+      "situation": "호들갑스러운 행동을 가까운 사이에서 놀릴 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-175",
+      "expression": "아이고, 배꼽 빠지는 줄 알았네.",
+      "neutral_expression": "정말 많이 웃었어.",
+      "situation": "웃긴 상황이 지나간 뒤 감상을 말할 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-176",
+      "expression": "이러니 개그맨들이 설 자리가 없지.",
+      "neutral_expression": "네가 웬만한 코미디보다 웃기다.",
+      "situation": "상대의 우스운 행동이나 말을 보고 놀릴 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-177",
+      "expression": "내 눈이 잘못됐나 싶었네.",
+      "neutral_expression": "내가 제대로 본 건지 의심했어.",
+      "situation": "예상 밖의 장면을 보고 놀랐을 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-178",
+      "expression": "이러다 뒷목 잡고 쓰러지겠다.",
+      "neutral_expression": "너무 답답하고 황당하다.",
+      "situation": "어이없는 상황에 과장해서 반응할 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-179",
+      "expression": "아니, 세상에 이런 일이 다 있나.",
+      "neutral_expression": "이런 일도 생기다니 믿기 어렵다.",
+      "situation": "믿기 힘든 사건을 전해 들었을 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-180",
+      "expression": "살다 살다 이런 경우는 또 처음이네.",
+      "neutral_expression": "이렇게 특이한 상황은 처음 겪어.",
+      "situation": "유난히 이상한 일을 겪었을 때",
+      "category": "생활형 — 황당해서 웃음이 나는 순간",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-181",
+      "expression": "오늘 어디 좋은 데 가나 봐?",
+      "neutral_expression": "오늘 특별한 약속 있어?",
+      "situation": "평소보다 차려입은 상대를 보고 물을 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-182",
+      "expression": "때 빼고 광냈네, 못 알아보겠다.",
+      "neutral_expression": "오늘 아주 깔끔하게 꾸몄네.",
+      "situation": "새롭게 단장한 상대를 장난스럽게 칭찬할 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-183",
+      "expression": "옷이 날개라더니, 사람이 달라 보이네.",
+      "neutral_expression": "옷을 바꿔 입으니 인상이 달라 보인다.",
+      "situation": "잘 어울리는 옷차림에 감탄할 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-184",
+      "expression": "뭘 또 이런 걸 다 사 왔어.",
+      "neutral_expression": "선물까지 챙겨줘서 고마워.",
+      "situation": "지인이 선물이나 간식을 들고 왔을 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-185",
+      "expression": "빈손으로 오기가 좀 그래서.",
+      "neutral_expression": "그냥 오기 미안해서 작은 걸 가져왔어.",
+      "situation": "방문 선물을 건네며 이유를 말할 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-186",
+      "expression": "오는 길에 주웠다, 가져라.",
+      "neutral_expression": "너 주려고 준비했어.",
+      "situation": "쑥스러워서 선물을 무심하게 건네는 척할 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-187",
+      "expression": "이 귀한 분이 어쩐 일로 다 오셨나.",
+      "neutral_expression": "네가 여기 오다니 정말 반갑다.",
+      "situation": "자주 오지 않던 지인을 능청스럽게 맞을 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-188",
+      "expression": "호랑이도 제 말 하면 온다더니.",
+      "neutral_expression": "네 얘기를 하고 있었는데 마침 왔네.",
+      "situation": "이야기하던 당사자가 나타났을 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-189",
+      "expression": "자리 깔아야겠네, 내가 딱 맞혔지?",
+      "neutral_expression": "내 예상이 정확했지?",
+      "situation": "우연히 한 예측이 맞았을 때 농담할 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-190",
+      "expression": "내가 이럴 때 쓰려고 아껴뒀지.",
+      "neutral_expression": "지금 쓰려고 준비해뒀어.",
+      "situation": "간직하던 물건이나 정보를 꺼내며 생색낼 때",
+      "category": "생활형 — 만남·차림새·생색",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-191",
+      "expression": "역시 집이 최고야, 집이 최고.",
+      "neutral_expression": "집에 오니 정말 편하다.",
+      "situation": "외출이나 여행 후 귀가했을 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-192",
+      "expression": "이제야 좀 사람 사는 것 같네.",
+      "neutral_expression": "이제야 좀 편하고 여유롭다.",
+      "situation": "바쁜 일정이 끝나거나 환경이 나아졌을 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-193",
+      "expression": "이제야 살 것 같다.",
+      "neutral_expression": "이제 좀 편해졌다.",
+      "situation": "더위나 허기, 피로가 풀렸을 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-194",
+      "expression": "이 맛에 사는 거 아니겠어.",
+      "neutral_expression": "이런 순간이 있어서 즐겁다.",
+      "situation": "작은 즐거움을 누리며 만족할 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-195",
+      "expression": "남부러울 게 없네, 남부러울 게 없어.",
+      "neutral_expression": "지금 정말 만족스럽다.",
+      "situation": "편안하고 기분 좋은 시간을 보낼 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-196",
+      "expression": "오늘 잠은 다 잤네, 다 잤어.",
+      "neutral_expression": "오늘은 잠들기 어렵겠다.",
+      "situation": "늦게 커피를 마시거나 신경 쓰이는 일이 생겼을 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-197",
+      "expression": "정신 차려보니 이 시간이네.",
+      "neutral_expression": "시간 가는 줄 몰랐네.",
+      "situation": "무언가에 몰두하다 늦어진 것을 알았을 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-198",
+      "expression": "누가 업어가도 모르고 잤네.",
+      "neutral_expression": "아주 깊게 잤어.",
+      "situation": "푹 잔 뒤 수면 상태를 과장해서 설명할 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-199",
+      "expression": "하루가 어떻게 갔는지 모르겠다.",
+      "neutral_expression": "정신없이 지내다 보니 하루가 끝났네.",
+      "situation": "바쁘게 보낸 하루를 돌아볼 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    },
+    {
+      "id": "old-keke-200",
+      "expression": "오늘은 방바닥이나 긁으면서 쉬어야겠다.",
+      "neutral_expression": "오늘은 집에서 빈둥거리며 쉴 거야.",
+      "situation": "휴일에 별다른 계획 없이 쉬겠다고 할 때",
+      "category": "생활형 — 귀가·휴식·소소한 만족",
+      "review_status": "unreviewed",
+      "origin": "synthetic_seed",
+      "source_url": null
+    }
+  ]
+}
