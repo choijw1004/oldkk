@@ -1,0 +1,20 @@
+[project]
+name = "old-keke-lab"
+version = "0.1.0"
+description = "늙크크 연구소 — LangGraph RAG 말투 실험실"
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi>=0.115,<1",
+  "uvicorn>=0.34,<1",
+  "langgraph>=1,<2",
+  "openai>=2,<3",
+  "pydantic>=2.10,<3",
+  "python-dotenv>=1,<2",
+]
+
+[dependency-groups]
+dev = ["httpx>=0.28,<1", "pytest>=8,<10"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["server/tests"]
